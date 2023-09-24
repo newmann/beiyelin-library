@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/moqui-conf-3.xsd"
+        name="beiyelin-library" version="1.0.1">
+    <depends-on name="moqui-poi" version="1.0.1"/>
+    <depends-on name="beiyelin-usl" version="2.2.0"/>
+    <depends-on name="beiyelin-udm" version="2.2.0"/>
+    <depends-on name="beiyelin-screens" version="2.2.0"/>
+</component>
